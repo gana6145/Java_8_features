@@ -14,6 +14,7 @@ public class ConsumerDemo {
 		for(String name:arr) {
 			s.accept(name);
 		}
+		
 			
 		
 	}
